@@ -1,0 +1,28 @@
+<html>
+
+<head> cirriculo victor henrique Alves Freitas </head>
+
+
+
+
+
+<body>
+
+<h1> victor Henrique Alves Freitas </h1>
+
+
+<h2> objetivo:</h2>
+
+
+<h2> trabalho como desenvolvedor front end </h2>
+
+
+<h2> conhecimento</h2>
+
+
+<p> desenvolvimento</p>
+
+
+</body>
+
+</html>
